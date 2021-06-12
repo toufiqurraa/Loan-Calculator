@@ -1,6 +1,6 @@
 # Loan-Calculator
 
-This project is a simple project to practice DOM Manipulation using pure JavaScirpt.
+This project is a simple project to practice DOM Manipulation using vanilla JavaScirpt.
 
 Ther user can calculate the monthly return for an amount of loan with a user specific interest rate and return time(in years). 
 
